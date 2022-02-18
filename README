@@ -2,7 +2,9 @@
 | os-idle-memory-footprint |
 ----------------------------
 
-'140mb of 4gb ram'
+'- startuptime 26 seconds
+ - shutdowntime 3 seconds
+ - 140mb of 4gb ram'
 
 
 # raspberry pi (400)
